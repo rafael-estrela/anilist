@@ -1,4 +1,4 @@
-package br.com.rafaelcouto.eti.anilist
+package br.eti.rafaelcouto.anilist
 
 import org.junit.Test
 
